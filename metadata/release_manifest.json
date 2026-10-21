@@ -1,0 +1,59 @@
+{
+  "release_id": "semi-iq-v1.0.0",
+  "dataset_version": "V1.0.0",
+  "distribution_status": "GITHUB_PUBLIC_DISTRIBUTION_READY",
+  "generated_on": "2026-10-21",
+  "wp1_count": 225,
+  "wp2_item_count": 769,
+  "scoring_criterion_count": 1247,
+  "wp2_by_module": {
+    "DEV": 180,
+    "ENG": 117,
+    "MAT": 102,
+    "PRO": 142,
+    "SEM": 120,
+    "SIM": 108
+  },
+  "wp2_by_difficulty": {
+    "Advanced": 168,
+    "Basic": 232,
+    "Intermediate": 369
+  },
+  "wp2_by_scoring_profile": {
+    "conceptual_rubric": 570,
+    "exact_answer": 146,
+    "numeric_with_tolerance": 53
+  },
+  "content_status": "Approved public dataset with private review workflow metadata excluded",
+  "technical_packaging_status": "local_public_release_checks_passed",
+  "files": {
+    "wp1": "data/v1.0/wp1_knowledge.json",
+    "wp2": "data/v1.0/wp2_benchmark.json",
+    "xlsx": "data/v1.0/wp2_benchmark.xlsx",
+    "source_register": "metadata/source_register.csv",
+    "content_summary": "metadata/content_summary.json",
+    "license_scope": "LICENSING.md",
+    "license_data": "LICENSE-DATA",
+    "license_software": "LICENSE-SOFTWARE",
+    "commercial_licensing": "COMMERCIAL-LICENSING.md",
+    "contributors": "CONTRIBUTORS.md",
+    "citation": "CITATION.cff",
+    "release_notes": "RELEASE_NOTES.md",
+    "source_item_index": "metadata/source_item_index.csv"
+  },
+  "licenses": {
+    "dataset_and_documentation": "CC-BY-NC-4.0",
+    "software": "PolyForm-Noncommercial-1.0.0",
+    "commercial": "separate written agreement where required"
+  },
+  "licensing_representative": "Kain Lu Low, acting on behalf of the authorized licensors",
+  "public_rights": "CC BY-NC 4.0 data/docs and PolyForm Noncommercial 1.0.0 code; Kain Lu Low acts on behalf of the authorized licensors",
+  "attribution_file": "CONTRIBUTORS.md",
+  "source_traceability": {
+    "unique_citation_strings": 165,
+    "legacy_id_aliases_same_named_work": 54,
+    "reference_locator_named_work_conflicts_pending": 0,
+    "evidence_verification_complete": true,
+    "item_index": "metadata/source_item_index.csv"
+  }
+}

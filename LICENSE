@@ -1,0 +1,12 @@
+# SemiIQ — dual non-commercial licensing
+
+This repository is distributed under **different licenses for different components**.
+There is no single license for every file. See [LICENSING.md](LICENSING.md) for the controlling file-by-file scope.
+
+**Release owner and licensing representative:** Kain Lu Low, acting on behalf of the authorized licensors for the covered original material.
+
+- **Original WP1/WP2 data and original documentation:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). See `LICENSE-DATA` and [the official legal code](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en).
+- **Original software, examples, scripts and authored CI workflow code:** PolyForm Noncommercial License 1.0.0. See `LICENSE-SOFTWARE` and [the official license terms](https://polyformproject.org/licenses/noncommercial/1.0.0).
+- **Commercial permissions beyond these standard grants:** Negotiated separately with the authorized rights holder(s). See [COMMERCIAL-LICENSING.md](COMMERCIAL-LICENSING.md).
+
+These non-commercial licenses are **not OSI-approved open-source licenses**. External textbooks, papers, source PDFs, independent third-party code, and unreleased private review/clearance records are not licensed by this repository. Legal exceptions and independently granted rights remain unaffected.

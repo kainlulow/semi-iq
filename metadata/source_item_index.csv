@@ -1,0 +1,995 @@
+record_type,record_id,source_key,reference_legacy_ids,locator_legacy_ids,traceability_flag,reference_named_work,locator_named_work
+WP1,WP1-SEM-BAND-KP-001,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-BAND-KP-002,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-BAND-KP-003,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-BAND-KP-004,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-BAND-KP-005,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-CARRIER-KP-001,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-CARRIER-KP-002,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-CARRIER-KP-003,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-CARRIER-KP-004,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-CARRIER-KP-005,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-TRANSPORT-KP-001,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-TRANSPORT-KP-002,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-TRANSPORT-KP-003,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-TRANSPORT-KP-004,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-TRANSPORT-KP-005,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-ELECTRO-KP-001,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-ELECTRO-KP-002,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-ELECTRO-KP-003,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-ELECTRO-KP-004,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-SEM-ELECTRO-KP-005,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-JUNCTION-KP-001,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-JUNCTION-KP-002,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-JUNCTION-KP-003,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-JUNCTION-KP-004,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-JUNCTION-KP-005,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-MOSCAP-KP-001,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-MOSCAP-KP-002,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-MOSCAP-KP-003,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-MOSCAP-KP-004,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-MOSCAP-KP-005,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-MOSFET-KP-001,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-MOSFET-KP-002,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-MOSFET-KP-003,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-MOSFET-KP-004,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-MOSFET-KP-005,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-BIPOLAR-KP-001,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-BIPOLAR-KP-002,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-BIPOLAR-KP-003,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-BIPOLAR-KP-004,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-BIPOLAR-KP-005,ref-04a85999fd8d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-POWER-KP-001,ref-5bf9ab448a81,SRC-001,SRC-001,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-POWER-KP-002,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-POWER-KP-003,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-POWER-KP-004,ref-5bf9ab448a81,SRC-001,SRC-001,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-POWER-KP-005,ref-5bf9ab448a81,SRC-001,SRC-001,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-OPTO-KP-001,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-OPTO-KP-002,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-OPTO-KP-003,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-OPTO-KP-004,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-DEV-OPTO-KP-005,ref-bc962b83e6f5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-SILICON-KP-001,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-SILICON-KP-002,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-SILICON-KP-003,ref-c280172367bc,SRC-001;SRC-002,SRC-001;SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-SILICON-KP-004,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-SILICON-KP-005,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-SILICON-KP-006,ref-cdd1fc30b3d8,SRC-001,SRC-001,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-SILICON-KP-007,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-INTERFACE-KP-001,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-INTERFACE-KP-002,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-INTERFACE-KP-003,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-INTERFACE-KP-004,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-INTERFACE-KP-005,ref-c280172367bc,SRC-001;SRC-002,SRC-001;SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-INTERFACE-KP-006,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-INTERFACE-KP-007,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-INTERFACE-KP-008,ref-c280172367bc,SRC-001;SRC-002,SRC-001;SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-INTERFACE-KP-009,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-INTERFACE-KP-010,ref-d5392c98dfa6,SRC-003,SRC-003,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-001,ref-88e5e9d269ec,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-002,ref-88e5e9d269ec,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-003,ref-88e5e9d269ec,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-004,ref-88e5e9d269ec,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-005,ref-88e5e9d269ec,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-006,ref-88e5e9d269ec,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-007,ref-88e5e9d269ec,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-008,ref-88e5e9d269ec,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-009,ref-88e5e9d269ec,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-010,ref-d5392c98dfa6,SRC-003,SRC-003,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-011,ref-d5392c98dfa6,SRC-003,SRC-003,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-012,ref-d5392c98dfa6,SRC-003,SRC-003,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-013,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-MAT-WBG-KP-014,ref-6d2d5dc8f97a,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P002-T01,ref-23136f57426b,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P002-T02,ref-23136f57426b,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P002-T03,ref-23136f57426b,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P002-T04,ref-23136f57426b,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P002-T05,ref-23136f57426b,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P002-T06,ref-23136f57426b,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P002-T07,ref-23136f57426b,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P003-T01,ref-b94ed5adf045,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P003-T02,ref-b94ed5adf045,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P003-T03,ref-b94ed5adf045,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P004-T01,ref-c957c4530fa3,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P004-T02,ref-c957c4530fa3,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P004-T03,ref-c957c4530fa3,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P005-T01,ref-23f62e681dc4,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P005-T02,ref-23f62e681dc4,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P005-T03,ref-23f62e681dc4,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P005-T04,ref-23f62e681dc4,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P006-T01,ref-9205ce98079d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P006-T02,ref-9205ce98079d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P006-T03,ref-9205ce98079d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P006-T04,ref-9205ce98079d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P006-T05,ref-9205ce98079d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P008-T01,ref-8a6f1d7dc726,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P008-T02,ref-8a6f1d7dc726,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P008-T03,ref-8a6f1d7dc726,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P009-T01,ref-6136be90f96b,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P009-T02,ref-6136be90f96b,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P009-T03,ref-6136be90f96b,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P009-T04,ref-6136be90f96b,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P009-T05,ref-6136be90f96b,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P01-001,ref-075d017f485a,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P01-002,ref-075d017f485a,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P01-003,ref-075d017f485a,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P01-004,ref-075d017f485a,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-DOPING-P012-T03,ref-530ee0a0f49f,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P010-T01,ref-fdd0141d8d90,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P011-T01,ref-d8fb0597792d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P011-T02,ref-d8fb0597792d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P011-T03,ref-d8fb0597792d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P011-T04,ref-d8fb0597792d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P011-T05,ref-d8fb0597792d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P011-T06,ref-d8fb0597792d,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P012-T01,ref-530ee0a0f49f,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P012-T02,ref-530ee0a0f49f,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P012-T04,ref-530ee0a0f49f,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P013-T01,ref-7f7120693192,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P013-T02,ref-7f7120693192,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P013-T03,ref-7f7120693192,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-FILM-P016-T01,ref-37f02f4921b5,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-INTEGRATION-P018-T01,ref-f03031acc94f,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-INTEGRATION-P018-T02,ref-f03031acc94f,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-INTEGRATION-P018-T03,ref-f03031acc94f,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-INTEGRATION-P018-T04,ref-f03031acc94f,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-INTEGRATION-P022-T01,ref-b017841d5591,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-INTEGRATION-P022-T02,ref-b017841d5591,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-INTEGRATION-P022-T03,ref-b017841d5591,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-INTEGRATION-P022-T04,ref-b017841d5591,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-PATTERN-P014-T01,ref-4b3a23c63f85,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-PATTERN-P014-T02,ref-4b3a23c63f85,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-PATTERN-P014-T03,ref-4b3a23c63f85,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-PATTERN-P014-T04,ref-4b3a23c63f85,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-PATTERN-P015-T01,ref-6b21d347b3c7,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-PATTERN-P015-T02,ref-6b21d347b3c7,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-PATTERN-P015-T03,ref-6b21d347b3c7,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-PATTERN-P015-T04,ref-6b21d347b3c7,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-PATTERN-P020-T01,ref-06402f133dde,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-PATTERN-P020-T02,ref-06402f133dde,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-PATTERN-P020-T03,ref-06402f133dde,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-PRO-PATTERN-P020-T04,ref-06402f133dde,,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-TCAD-KP-001,ref-73c709112da1,SRC-003;SRC-005,SRC-003;SRC-005,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP1,WP1-SIM-TCAD-KP-002,ref-982eac5706e1,SRC-004;SRC-006,SRC-004;SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-TCAD-KP-003,ref-982eac5706e1,SRC-004;SRC-006,SRC-004;SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-TCAD-KP-004,ref-982eac5706e1,SRC-004;SRC-006,SRC-004;SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-TCAD-KP-005,ref-1ac9d3386951,SRC-005;SRC-006,SRC-005;SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-TCAD-KP-006,ref-1ac9d3386951,SRC-005;SRC-006,SRC-005;SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-TCAD-KP-007,ref-1ac9d3386951,SRC-005;SRC-006,SRC-005;SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-TCAD-KP-008,ref-27b9646ae496,SRC-006,SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-TCAD-KP-009,ref-27b9646ae496,SRC-006,SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-TCAD-KP-010,ref-982eac5706e1,SRC-004;SRC-006,SRC-004;SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-TCAD-KP-011,ref-1ac9d3386951,SRC-005;SRC-006,SRC-005;SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-TCAD-KP-012,ref-b3464491142d,SRC-002;SRC-007;SRC-008,SRC-002;SRC-007;SRC-008,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-COMPACT-KP-001,ref-7c4ecca107ba,SRC-001;SRC-002,SRC-001;SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-COMPACT-KP-002,ref-9a03467f5102,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-COMPACT-KP-003,ref-411bc1bc53e5,SRC-002;SRC-005,SRC-002;SRC-005,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-COMPACT-KP-004,ref-7c4ecca107ba,SRC-001;SRC-002,SRC-001;SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-COMPACT-KP-005,ref-13d57552e56b,SRC-001,SRC-001,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-COMPACT-KP-006,ref-13d57552e56b,SRC-001,SRC-001,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-COMPACT-KP-007,ref-499fe0446cdc,SRC-001;SRC-005,SRC-001;SRC-005,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-COMPACT-KP-008,ref-13d57552e56b,SRC-001,SRC-001,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-COMPACT-KP-009,ref-13d57552e56b,SRC-001,SRC-001,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-COMPACT-KP-010,ref-499fe0446cdc,SRC-001;SRC-005,SRC-001;SRC-005,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-COMPACT-KP-011,ref-55e5a01c6f21,SRC-001;SRC-002,SRC-001;SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-COMPACT-KP-012,ref-d98a33d47954,SRC-001;SRC-002;SRC-007;SRC-008,SRC-001;SRC-002;SRC-007;SRC-008,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-NUMERICAL-KP-001,ref-ac3c91d5cbf1,SRC-004;SRC-006,SRC-004;SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-NUMERICAL-KP-002,ref-5cdf591e5411,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-NUMERICAL-KP-003,ref-1eb98f90b9d2,SRC-004;SRC-005,SRC-004;SRC-005,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-NUMERICAL-KP-004,ref-dcf5285eeb06,SRC-003;SRC-004;SRC-005,SRC-003;SRC-004;SRC-005,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-NUMERICAL-KP-005,ref-5cdf591e5411,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-NUMERICAL-KP-006,ref-ac3c91d5cbf1,SRC-004;SRC-006,SRC-004;SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-NUMERICAL-KP-007,ref-5cdf591e5411,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-NUMERICAL-KP-008,ref-5cdf591e5411,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-NUMERICAL-KP-009,ref-e3d6a67cb6bb,SRC-003;SRC-006,SRC-003;SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-NUMERICAL-KP-010,ref-b3464491142d,SRC-002;SRC-007;SRC-008,SRC-002;SRC-007;SRC-008,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-NUMERICAL-KP-011,ref-73c709112da1,SRC-003;SRC-005,SRC-003;SRC-005,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-SIM-NUMERICAL-KP-012,ref-6c1da730fd17,SRC-002;SRC-007;SRC-008,SRC-002;SRC-007;SRC-008,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-001,ref-7774251e41d6,SRC-001,SRC-001,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-002,ref-9815fb966810,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-003,ref-776c24ecbc90,SRC-003,SRC-003,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-004,ref-b291acae72bb,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-005,ref-8891bdb95147,SRC-005,SRC-005,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-006,ref-ff8d0499a022,SRC-006,SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-007,ref-d0c4c7cf331e,SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-008,ref-afb6e043bcf4,SRC-008,SRC-008,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-009,ref-ddb44345f847,SRC-009,SRC-009,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-010,ref-c5ddda03787b,SRC-010,SRC-010,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-011,ref-bb34a8052aa1,SRC-011,SRC-011,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-012,ref-af5db0b64870,SRC-012,SRC-012,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-013,ref-e066c6159e78,SRC-013,SRC-013,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-014,ref-c2e230dee590,SRC-014,SRC-014,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-015,ref-a07e73ead596,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-016,ref-b76c3fb0516a,SRC-016,SRC-016,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-017,ref-7babcdc52b92,SRC-017,SRC-017,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-018,ref-b2b42ceda107,SRC-018,SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-019,ref-9e3d85659972,SRC-019,SRC-019,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-020,ref-7aab209d4c1b,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-021,ref-5f40d971b687,SRC-021,SRC-021,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-022,ref-903b24f7c7e0,SRC-022,SRC-022,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-023,ref-efb9ee99b5b1,SRC-023,SRC-023,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-024,ref-08ce788efa46,SRC-024,SRC-024,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-025,ref-bc4b83a8b591,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-026,ref-a3bb845f584c,SRC-026,SRC-026,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-027,ref-e0bd1870c517,SRC-027,SRC-027,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-028,ref-ed61c5fbc984,SRC-028,SRC-028,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-CODESIGN-KP-029,ref-cd94469d7293,SRC-029,SRC-029,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-AIEDA-KP-001,ref-83fbc50aa92f,SRC-030,SRC-030,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-AIEDA-KP-002,ref-0c5bd3c44217,SRC-031,SRC-031,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-AIEDA-KP-003,ref-2a3c5f3bd91e,SRC-032,SRC-032,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-AIEDA-KP-004,ref-08d5710d8b4a,SRC-033,SRC-033,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-AIEDA-KP-005,ref-ad9e6568737e,SRC-034,SRC-034,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-FAILURE-KP-001,ref-90d28c99a684,SRC-035,SRC-035,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-FAILURE-KP-002,ref-a0a87d848b2a,SRC-036,SRC-036,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-FAILURE-KP-003,ref-d08ec5e64742,SRC-037,SRC-037,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-MANUFACTURING-KP-001,ref-f6ab12204a4c,SRC-038,SRC-038,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP1,WP1-ENG-METROLOGY-KP-001,ref-c96bf033d77e,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-BIPOLAR-KP-001-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-001-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-001-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-001-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-001-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-001-Q06,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-BIPOLAR-KP-002-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-002-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-002-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-002-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-002-Q05,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-BIPOLAR-KP-002-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-003-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-003-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-003-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-003-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-003-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-003-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-BIPOLAR-KP-004-Q01,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-BIPOLAR-KP-004-Q02,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-BIPOLAR-KP-004-Q03,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-BIPOLAR-KP-004-Q04,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-BIPOLAR-KP-004-Q05,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-BIPOLAR-KP-004-Q06,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-BIPOLAR-KP-005-Q01,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-BIPOLAR-KP-005-Q02,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-BIPOLAR-KP-005-Q03,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-BIPOLAR-KP-005-Q04,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-BIPOLAR-KP-005-Q05,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-BIPOLAR-KP-005-Q06,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-JUNCTION-KP-001-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-001-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-001-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-001-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-001-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-001-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-002-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-002-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-002-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-002-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-002-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-002-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-003-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-003-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-003-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-003-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-003-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-003-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-004-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-004-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-004-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-004-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-004-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-004-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-005-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-005-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-005-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-005-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-005-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-JUNCTION-KP-005-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-MOSCAP-KP-001-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-MOSCAP-KP-001-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-MOSCAP-KP-001-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-MOSCAP-KP-001-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-MOSCAP-KP-001-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-MOSCAP-KP-001-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-MOSCAP-KP-002-Q01,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-002-Q02,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-002-Q03,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-002-Q04,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-002-Q05,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-002-Q06,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-003-Q01,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-003-Q02,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-003-Q03,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-003-Q04,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-003-Q05,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-003-Q06,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-004-Q01,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-004-Q02,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-004-Q03,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-004-Q04,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-004-Q05,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-004-Q06,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-005-Q01,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-005-Q02,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-005-Q03,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-005-Q04,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-005-Q05,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSCAP-KP-005-Q06,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-001-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-MOSFET-KP-001-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-MOSFET-KP-001-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-MOSFET-KP-001-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-MOSFET-KP-001-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-MOSFET-KP-001-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-MOSFET-KP-002-Q01,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-002-Q02,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-002-Q03,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-002-Q04,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-002-Q05,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-002-Q06,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-003-Q01,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-003-Q02,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-003-Q03,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-003-Q04,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-003-Q05,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-003-Q06,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-004-Q01,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-004-Q02,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-004-Q03,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-004-Q04,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-004-Q05,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-004-Q06,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-005-Q01,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-005-Q02,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-005-Q03,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-005-Q04,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-005-Q05,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-MOSFET-KP-005-Q06,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-DEV-OPTO-KP-001-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-001-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-001-Q03,ref-bf8eab9c9878,SRC-025;SRC-047,SRC-025;SRC-047,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-001-Q04,ref-bf8eab9c9878,SRC-025;SRC-047,SRC-025;SRC-047,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-001-Q05,ref-bf8eab9c9878,SRC-025;SRC-047,SRC-025;SRC-047,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-001-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-002-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-002-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-002-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-002-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-002-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-002-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-003-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-003-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-003-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-003-Q04,ref-f83a319b3562,SRC-025;SRC-031,SRC-025;SRC-031,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-003-Q05,ref-f83a319b3562,SRC-025;SRC-031,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-003-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-004-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-004-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-004-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-004-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-004-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-004-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-005-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-005-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-005-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-005-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-005-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-OPTO-KP-005-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-POWER-KP-001-Q01,ref-be3c8ead39b7,SRC-040,SRC-040,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-001-Q02,ref-be3c8ead39b7,SRC-040,SRC-040,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-001-Q03,ref-be3c8ead39b7,SRC-040,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-001-Q04,ref-be3c8ead39b7,SRC-040,SRC-040,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-001-Q05,ref-be3c8ead39b7,SRC-040,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-001-Q06,ref-be3c8ead39b7,SRC-040,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-002-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-POWER-KP-002-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-POWER-KP-002-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-POWER-KP-002-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-POWER-KP-002-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-POWER-KP-002-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-POWER-KP-003-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-POWER-KP-003-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-POWER-KP-003-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-POWER-KP-003-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-POWER-KP-003-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-POWER-KP-003-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-DEV-POWER-KP-004-Q01,ref-be3c8ead39b7,SRC-040,SRC-040,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-004-Q02,ref-be3c8ead39b7,SRC-040,SRC-040,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-004-Q03,ref-be3c8ead39b7,SRC-040,SRC-040,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-004-Q04,ref-be3c8ead39b7,SRC-040,SRC-040,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-004-Q05,ref-be3c8ead39b7,SRC-040,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-004-Q06,ref-be3c8ead39b7,SRC-040,SRC-040,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-005-Q01,ref-be3c8ead39b7,SRC-040,SRC-040,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-005-Q02,ref-be3c8ead39b7,SRC-040,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-005-Q03,ref-be3c8ead39b7,SRC-040,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-005-Q04,ref-be3c8ead39b7,SRC-040,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-005-Q05,ref-be3c8ead39b7,SRC-040,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-DEV-POWER-KP-005-Q06,ref-be3c8ead39b7,SRC-040,,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-001-Q01,ref-ac8d30dff002,SRC-030;SRC-075,SRC-075,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-001-Q02,ref-ac8d30dff002,SRC-030;SRC-075,SRC-075,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-001-Q03,ref-ac8d30dff002,SRC-030;SRC-075,SRC-075,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-002-Q01,ref-edf539469662,SRC-031;SRC-044,SRC-044,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-002-Q02,ref-edf539469662,SRC-031;SRC-044,SRC-044,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-002-Q03,ref-edf539469662,SRC-031;SRC-044,SRC-044,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-003-Q01,ref-8f772d9ae1b1,SRC-032;SRC-064,SRC-064,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-003-Q02,ref-8f772d9ae1b1,SRC-032;SRC-064,SRC-064,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-003-Q03,ref-8f772d9ae1b1,SRC-032;SRC-064,SRC-064,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-004-Q01,ref-835f5ef4a20b,SRC-033;SRC-046,SRC-046,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-004-Q02,ref-835f5ef4a20b,SRC-033;SRC-046,SRC-046,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-004-Q03,ref-835f5ef4a20b,SRC-033;SRC-046,SRC-046,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-005-Q01,ref-d0943686bf07,SRC-009;SRC-034,SRC-009,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-005-Q02,ref-d0943686bf07,SRC-009;SRC-034,SRC-009,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-AIEDA-KP-005-Q03,ref-d0943686bf07,SRC-009;SRC-034,SRC-009,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-001-Q01,ref-d079cf774782,SRC-001;SRC-026,SRC-026,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-001-Q02,ref-d079cf774782,SRC-001;SRC-026,SRC-026,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-001-Q03,ref-d079cf774782,SRC-001;SRC-026,SRC-026,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-002-Q01,ref-08be3e4fb071,SRC-002;SRC-072,SRC-072,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-002-Q02,ref-08be3e4fb071,SRC-002;SRC-072,SRC-072,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-002-Q03,ref-08be3e4fb071,SRC-002;SRC-072,SRC-072,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-003-Q01,ref-ba0161b1d35c,SRC-003;SRC-030,SRC-030,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-003-Q02,ref-ba0161b1d35c,SRC-003;SRC-030,SRC-030,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-003-Q03,ref-ba0161b1d35c,SRC-003;SRC-030,SRC-030,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-004-Q01,ref-6c6c8d55a8b8,SRC-004;SRC-029,SRC-029,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-004-Q02,ref-6c6c8d55a8b8,SRC-004;SRC-029,SRC-029,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-004-Q03,ref-6c6c8d55a8b8,SRC-004;SRC-029,SRC-029,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-005-Q01,ref-7fdabdafd4ef,SRC-005;SRC-048,SRC-048,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-005-Q02,ref-7fdabdafd4ef,SRC-005;SRC-048,SRC-048,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-005-Q03,ref-7fdabdafd4ef,SRC-005;SRC-048,SRC-048,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-006-Q01,ref-edabc130ccb0,SRC-006;SRC-050,SRC-050,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-006-Q02,ref-edabc130ccb0,SRC-006;SRC-050,SRC-050,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-006-Q03,ref-edabc130ccb0,SRC-006;SRC-050,SRC-050,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-007-Q01,ref-fe09522e1324,SRC-007;SRC-017,SRC-017,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-007-Q02,ref-fe09522e1324,SRC-007;SRC-017,SRC-017,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-007-Q03,ref-fe09522e1324,SRC-007;SRC-017,SRC-017,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-008-Q01,ref-9c4d20fbba82,SRC-008;SRC-054,SRC-054,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-008-Q02,ref-9c4d20fbba82,SRC-008;SRC-054,SRC-054,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-008-Q03,ref-9c4d20fbba82,SRC-008;SRC-054,SRC-054,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-009-Q01,ref-d542841a80b3,SRC-009;SRC-068,SRC-068,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-009-Q02,ref-d542841a80b3,SRC-009;SRC-068,SRC-068,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-009-Q03,ref-d542841a80b3,SRC-009;SRC-068,SRC-068,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-010-Q01,ref-d4ee01cd35d6,SRC-010;SRC-042,SRC-042,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-010-Q02,ref-d4ee01cd35d6,SRC-010;SRC-042,SRC-042,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-010-Q03,ref-d4ee01cd35d6,SRC-010;SRC-042,SRC-042,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-011-Q01,ref-8b2c6b32dce5,SRC-011;SRC-038,SRC-038,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-011-Q02,ref-8b2c6b32dce5,SRC-011;SRC-038,SRC-038,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-011-Q03,ref-8b2c6b32dce5,SRC-011;SRC-038,SRC-038,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-012-Q01,ref-f461fec7a89a,SRC-012;SRC-014,SRC-014,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-012-Q02,ref-f461fec7a89a,SRC-012;SRC-014,SRC-014,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-012-Q03,ref-f461fec7a89a,SRC-012;SRC-014,SRC-014,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-013-Q01,ref-96e693bf3aaf,SRC-013;SRC-073,SRC-073,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-013-Q02,ref-96e693bf3aaf,SRC-013;SRC-073,SRC-073,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-013-Q03,ref-96e693bf3aaf,SRC-013;SRC-073,SRC-073,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-014-Q01,ref-fc4cbdbffaeb,SRC-001;SRC-014,SRC-001,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-014-Q02,ref-fc4cbdbffaeb,SRC-001;SRC-014,SRC-001,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-014-Q03,ref-fc4cbdbffaeb,SRC-001;SRC-014,SRC-001,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-015-Q01,ref-86dd4a8e386a,SRC-015;SRC-065,SRC-065,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-015-Q02,ref-86dd4a8e386a,SRC-015;SRC-065,SRC-065,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-015-Q03,ref-86dd4a8e386a,SRC-015;SRC-065,SRC-065,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-016-Q01,ref-6d1cc10ab687,SRC-016;SRC-023,SRC-023,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-016-Q02,ref-6d1cc10ab687,SRC-016;SRC-023,SRC-023,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-016-Q03,ref-6d1cc10ab687,SRC-016;SRC-023,SRC-023,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-017-Q01,ref-685bffaa303c,SRC-017;SRC-057,SRC-057,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-017-Q02,ref-685bffaa303c,SRC-017;SRC-057,SRC-057,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-017-Q03,ref-685bffaa303c,SRC-017;SRC-057,SRC-057,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-018-Q01,ref-3a3538fb7ffc,SRC-018;SRC-074,SRC-074,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-018-Q02,ref-3a3538fb7ffc,SRC-018;SRC-074,SRC-074,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-018-Q03,ref-3a3538fb7ffc,SRC-018;SRC-074,SRC-074,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-019-Q01,ref-aa88796307eb,SRC-006;SRC-019,SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-019-Q02,ref-aa88796307eb,SRC-006;SRC-019,SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-019-Q03,ref-aa88796307eb,SRC-006;SRC-019,SRC-006,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-020-Q01,ref-b5647cd44154,SRC-020;SRC-033,SRC-033,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-020-Q02,ref-b5647cd44154,SRC-020;SRC-033,SRC-033,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-020-Q03,ref-b5647cd44154,SRC-020;SRC-033,SRC-033,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-021-Q01,ref-a6bd9c9216f9,SRC-011;SRC-021,SRC-011,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-021-Q02,ref-a6bd9c9216f9,SRC-011;SRC-021,SRC-011,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-021-Q03,ref-a6bd9c9216f9,SRC-011;SRC-021,SRC-011,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-022-Q01,ref-5a764c3b89e2,SRC-022;SRC-066,SRC-066,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-022-Q02,ref-5a764c3b89e2,SRC-022;SRC-066,SRC-066,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-022-Q03,ref-5a764c3b89e2,SRC-022;SRC-066,SRC-066,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-023-Q01,ref-662474fc5c4e,SRC-023;SRC-056,SRC-056,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-023-Q02,ref-662474fc5c4e,SRC-023;SRC-056,SRC-056,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-023-Q03,ref-662474fc5c4e,SRC-023;SRC-056,SRC-056,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-024-Q01,ref-525cd53d38bd,SRC-024;SRC-043,SRC-043,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-024-Q02,ref-525cd53d38bd,SRC-024;SRC-043,SRC-043,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-024-Q03,ref-525cd53d38bd,SRC-024;SRC-043,SRC-043,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-025-Q01,ref-018be515c549,SRC-025;SRC-035,SRC-035,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-025-Q02,ref-018be515c549,SRC-025;SRC-035,SRC-035,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-025-Q03,ref-018be515c549,SRC-025;SRC-035,SRC-035,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-026-Q01,ref-c594ed55bee0,SRC-026;SRC-062,SRC-062,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-026-Q02,ref-c594ed55bee0,SRC-026;SRC-062,SRC-062,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-026-Q03,ref-c594ed55bee0,SRC-026;SRC-062,SRC-062,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-027-Q01,ref-75f1c67ff050,SRC-013;SRC-027,SRC-013,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-027-Q02,ref-75f1c67ff050,SRC-013;SRC-027,SRC-013,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-027-Q03,ref-75f1c67ff050,SRC-013;SRC-027,SRC-013,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-028-Q01,ref-325543b4af64,SRC-028;SRC-045,SRC-045,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-028-Q02,ref-325543b4af64,SRC-028;SRC-045,SRC-045,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-028-Q03,ref-325543b4af64,SRC-028;SRC-045,SRC-045,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-029-Q01,ref-6d60992d9dd2,SRC-029;SRC-063,SRC-063,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-029-Q02,ref-6d60992d9dd2,SRC-029;SRC-063,SRC-063,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-CODESIGN-KP-029-Q03,ref-6d60992d9dd2,SRC-029;SRC-063,SRC-063,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-FAILURE-KP-001-Q01,ref-c0e763045a60,SRC-005;SRC-035,SRC-005,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-FAILURE-KP-001-Q02,ref-c0e763045a60,SRC-005;SRC-035,SRC-005,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-FAILURE-KP-001-Q03,ref-c0e763045a60,SRC-005;SRC-035,SRC-005,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-FAILURE-KP-002-Q01,ref-a23fabc73b02,SRC-036;SRC-067,SRC-067,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-FAILURE-KP-002-Q02,ref-a23fabc73b02,SRC-036;SRC-067,SRC-067,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-FAILURE-KP-002-Q03,ref-a23fabc73b02,SRC-036;SRC-067,SRC-067,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-FAILURE-KP-003-Q01,ref-6a491e8cd058,SRC-016;SRC-037,SRC-016,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-FAILURE-KP-003-Q02,ref-6a491e8cd058,SRC-016;SRC-037,SRC-016,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-FAILURE-KP-003-Q03,ref-6a491e8cd058,SRC-016;SRC-037,SRC-016,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-MANUFACTURING-KP-001-Q01,ref-8b6aa1b835af,SRC-038;SRC-079,SRC-079,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-MANUFACTURING-KP-001-Q02,ref-8b6aa1b835af,SRC-038;SRC-079,SRC-079,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-MANUFACTURING-KP-001-Q03,ref-8b6aa1b835af,SRC-038;SRC-079,SRC-079,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-METROLOGY-KP-001-Q01,ref-c0cdb31d692c,SRC-027;SRC-039,SRC-027,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-METROLOGY-KP-001-Q02,ref-c0cdb31d692c,SRC-027;SRC-039,SRC-027,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-ENG-METROLOGY-KP-001-Q03,ref-c0cdb31d692c,SRC-027;SRC-039,SRC-027,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-INTERFACE-KP-001-Q01,ref-ecd53c00eae7,SRC-002;SRC-007;SRC-018,SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-001-Q02,ref-ecd53c00eae7,SRC-002;SRC-007;SRC-018,SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-001-Q03,ref-ecd53c00eae7,SRC-002;SRC-007;SRC-018,SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-002-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-002-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-002-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-003-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-003-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-003-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-003-Q04,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-004-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-004-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-004-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-005-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-005-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-005-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-006-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-006-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-006-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-007-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-007-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-007-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-008-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-008-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-008-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-009-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-009-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-009-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-009-Q04,ref-761b467721b2,SRC-007;SRC-018,SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-INTERFACE-KP-010-Q01,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-INTERFACE-KP-010-Q02,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-INTERFACE-KP-010-Q03,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-SILICON-KP-001-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-001-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-001-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-002-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-002-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-002-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-003-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-003-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-003-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-004-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-004-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-004-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-005-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-005-Q02,ref-579a935951e8,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-SILICON-KP-005-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-006-Q01,ref-579a935951e8,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-SILICON-KP-006-Q02,ref-579a935951e8,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-SILICON-KP-006-Q03,ref-579a935951e8,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-SILICON-KP-006-Q04,ref-579a935951e8,SRC-002,SRC-002,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-SILICON-KP-007-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-007-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-SILICON-KP-007-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-WBG-KP-001-Q01,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-001-Q02,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-001-Q03,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-001-Q04,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-002-Q01,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-002-Q02,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-002-Q03,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-002-Q04,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-003-Q01,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-003-Q02,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-003-Q03,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-004-Q01,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-004-Q02,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-004-Q03,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-004-Q04,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-005-Q01,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-005-Q02,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-005-Q03,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-005-Q04,ref-0d6c6cbe79cd,SRC-004;SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-006-Q01,ref-c472db288341,SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-006-Q02,ref-c472db288341,SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-006-Q03,ref-c472db288341,SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-007-Q01,ref-c472db288341,SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-007-Q02,ref-c472db288341,SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-007-Q03,ref-c472db288341,SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-008-Q01,ref-c472db288341,SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-008-Q02,ref-c472db288341,SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-008-Q03,ref-c472db288341,SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-009-Q01,ref-c472db288341,SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-009-Q02,ref-c472db288341,SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-009-Q03,ref-c472db288341,SRC-078,SRC-078,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-010-Q01,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-010-Q02,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-010-Q03,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-010-Q04,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-011-Q01,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-011-Q02,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-011-Q03,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-012-Q01,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-012-Q02,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-012-Q03,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-012-Q04,ref-fc425af9619a,SRC-004,SRC-004,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-MAT-WBG-KP-013-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-WBG-KP-013-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-WBG-KP-013-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-WBG-KP-014-Q01,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-WBG-KP-014-Q02,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-MAT-WBG-KP-014-Q03,ref-761b467721b2,SRC-007;SRC-018,SRC-007;SRC-018,NO_LEGACY_ID_DIFFERENCE_DETECTED,Grundmann — The Physics of Semiconductors,Grundmann — The Physics of Semiconductors
+WP2,WP2-PRO-DOPING-0001,ref-51157903b6d7,SRC-052,SRC-052,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0002,ref-51157903b6d7,SRC-052,SRC-052,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0003,ref-51157903b6d7,SRC-052,SRC-052,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0004,ref-51157903b6d7,SRC-052,SRC-052,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0005,ref-51157903b6d7,SRC-052,SRC-052,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0006,ref-51157903b6d7,SRC-052,SRC-052,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0007,ref-51157903b6d7,SRC-052,SRC-052,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0008,ref-51157903b6d7,SRC-052,SRC-052,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0009,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0010,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0011,ref-51157903b6d7,SRC-052,SRC-052,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0012,ref-51157903b6d7,SRC-052,SRC-052,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0013,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0014,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0015,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0016,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0017,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0018,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0019,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0020,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0021,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0022,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0023,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0024,ref-9e32e2b5e655,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0025,ref-d898d35a71e8,SRC-037,SRC-037,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0026,ref-d898d35a71e8,SRC-037,SRC-037,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0027,ref-d898d35a71e8,SRC-037,SRC-037,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0028,ref-d898d35a71e8,SRC-037,SRC-037,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0029,ref-d898d35a71e8,SRC-037,SRC-037,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0030,ref-d898d35a71e8,SRC-037,SRC-037,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0031,ref-6d7290aeb4cf,SRC-061,SRC-061,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0032,ref-6d7290aeb4cf,SRC-061,SRC-061,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0033,ref-6d7290aeb4cf,SRC-061,SRC-061,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0034,ref-6d7290aeb4cf,SRC-061,SRC-061,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0035,ref-6d7290aeb4cf,SRC-061,SRC-061,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0036,ref-6d7290aeb4cf,SRC-061,SRC-061,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0037,ref-f668706dea9a,SRC-012,SRC-012,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0038,ref-f668706dea9a,SRC-012,SRC-012,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0039,ref-f668706dea9a,SRC-012,SRC-012,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0040,ref-f668706dea9a,SRC-012,SRC-012,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0041,ref-6d7290aeb4cf,SRC-061,SRC-061,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0042,ref-6d7290aeb4cf,SRC-061,SRC-061,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0043,ref-75c58d23ba75,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0044,ref-75c58d23ba75,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0045,ref-75c58d23ba75,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0046,ref-75c58d23ba75,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0047,ref-f668706dea9a,SRC-012,SRC-012,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0048,ref-f668706dea9a,SRC-012,SRC-012,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0049,ref-75c58d23ba75,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0050,ref-75c58d23ba75,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0051,ref-a5742af87ce6,SRC-069,SRC-069,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0052,ref-a5742af87ce6,SRC-069,SRC-069,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0053,ref-75c58d23ba75,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0054,ref-75c58d23ba75,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0055,ref-a5742af87ce6,SRC-069,SRC-069,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0056,ref-a5742af87ce6,SRC-069,SRC-069,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0057,ref-a5742af87ce6,SRC-069,SRC-069,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0058,ref-a5742af87ce6,SRC-069,SRC-069,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0059,ref-e377c523f290,SRC-032,SRC-032,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0060,ref-e377c523f290,SRC-032,SRC-032,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0061,ref-75c58d23ba75,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0062,ref-75c58d23ba75,SRC-039,SRC-039,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0063,ref-e377c523f290,SRC-032,SRC-032,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0064,ref-e377c523f290,SRC-032,SRC-032,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0065,ref-e377c523f290,SRC-032,SRC-032,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0066,ref-e377c523f290,SRC-032,SRC-032,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0067,ref-e377c523f290,SRC-032,SRC-032,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0068,ref-e377c523f290,SRC-032,SRC-032,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0069,ref-e377c523f290,SRC-032,SRC-032,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0070,ref-e377c523f290,SRC-032,SRC-032,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0089,ref-2053c1f7062c,SRC-034,SRC-034,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-DOPING-0090,ref-2053c1f7062c,SRC-034,SRC-034,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0071,ref-8571ebb7065d,SRC-053,SRC-053,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0072,ref-8571ebb7065d,SRC-053,SRC-053,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0073,ref-cc7c47dff851,SRC-051,SRC-051,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0074,ref-cc7c47dff851,SRC-051,SRC-051,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0075,ref-8571ebb7065d,SRC-053,SRC-053,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0076,ref-8571ebb7065d,SRC-053,SRC-053,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0077,ref-8571ebb7065d,SRC-053,SRC-053,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0078,ref-8571ebb7065d,SRC-053,SRC-053,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0079,ref-8571ebb7065d,SRC-053,SRC-053,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0080,ref-8571ebb7065d,SRC-053,SRC-053,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0081,ref-8571ebb7065d,SRC-053,SRC-053,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0082,ref-8571ebb7065d,SRC-053,SRC-053,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0083,ref-8571ebb7065d,SRC-053,SRC-053,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0084,ref-8571ebb7065d,SRC-053,SRC-053,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0085,ref-2053c1f7062c,SRC-034,SRC-034,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0086,ref-2053c1f7062c,SRC-034,SRC-034,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0087,ref-2053c1f7062c,SRC-034,SRC-034,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0088,ref-2053c1f7062c,SRC-034,SRC-034,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0091,ref-2053c1f7062c,SRC-034,SRC-034,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0092,ref-2053c1f7062c,SRC-034,SRC-034,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0093,ref-bd6c7f491b2d,SRC-070,SRC-070,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0094,ref-bd6c7f491b2d,SRC-070,SRC-070,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0095,ref-bd6c7f491b2d,SRC-070,SRC-070,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0096,ref-bd6c7f491b2d,SRC-070,SRC-070,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0097,ref-bd6c7f491b2d,SRC-070,SRC-070,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0098,ref-bd6c7f491b2d,SRC-070,SRC-070,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0113,ref-e88473988d51,SRC-076,SRC-076,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-FILM-0114,ref-e88473988d51,SRC-076,SRC-076,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0117,ref-ce6b3ed70554,SRC-021,SRC-021,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0118,ref-ce6b3ed70554,SRC-021,SRC-021,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0119,ref-ce6b3ed70554,SRC-021,SRC-021,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0120,ref-ce6b3ed70554,SRC-021,SRC-021,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0121,ref-ce6b3ed70554,SRC-021,SRC-021,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0122,ref-ce6b3ed70554,SRC-021,SRC-021,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0123,ref-ce6b3ed70554,SRC-021,SRC-021,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0124,ref-ce6b3ed70554,SRC-021,SRC-021,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0133,ref-a58b6a254742,SRC-071,SRC-071,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0134,ref-a58b6a254742,SRC-071,SRC-071,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0135,ref-a58b6a254742,SRC-071,SRC-071,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0136,ref-a58b6a254742,SRC-071,SRC-071,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0137,ref-a58b6a254742,SRC-071,SRC-071,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0138,ref-a58b6a254742,SRC-071,SRC-071,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0139,ref-a58b6a254742,SRC-071,SRC-071,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0140,ref-a58b6a254742,SRC-071,SRC-071,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0141,ref-a58b6a254742,SRC-071,SRC-071,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-INTEGRATION-0142,ref-a58b6a254742,SRC-071,SRC-071,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0099,ref-cdf7686224b1,SRC-008,SRC-008,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0100,ref-cdf7686224b1,SRC-008,SRC-008,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0101,ref-cdf7686224b1,SRC-008,SRC-008,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0102,ref-cdf7686224b1,SRC-008,SRC-008,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0103,ref-cdf7686224b1,SRC-008,SRC-008,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0104,ref-cdf7686224b1,SRC-008,SRC-008,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0105,ref-cdf7686224b1,SRC-008,SRC-008,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0106,ref-cdf7686224b1,SRC-008,SRC-008,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0107,ref-d5f0e0183a2d,SRC-028,SRC-028,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0108,ref-d5f0e0183a2d,SRC-028,SRC-028,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0109,ref-d5f0e0183a2d,SRC-028,SRC-028,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0110,ref-d5f0e0183a2d,SRC-028,SRC-028,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0111,ref-d5f0e0183a2d,SRC-028,SRC-028,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0112,ref-d5f0e0183a2d,SRC-028,SRC-028,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0115,ref-d5f0e0183a2d,SRC-028,SRC-028,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0116,ref-d5f0e0183a2d,SRC-028,SRC-028,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0125,ref-5f8b68178896,SRC-024,SRC-024,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0126,ref-5f8b68178896,SRC-024,SRC-024,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0127,ref-5f8b68178896,SRC-024,SRC-024,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0128,ref-5f8b68178896,SRC-024,SRC-024,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0129,ref-5f8b68178896,SRC-024,SRC-024,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0130,ref-5f8b68178896,SRC-024,SRC-024,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0131,ref-5f8b68178896,SRC-024,SRC-024,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-PRO-PATTERN-0132,ref-5f8b68178896,SRC-024,SRC-024,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-BAND-KP-001-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-001-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-001-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-001-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-001-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-001-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-002-Q01,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-002-Q02,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-002-Q03,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-002-Q04,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-002-Q05,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-002-Q06,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-003-Q01,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-BAND-KP-003-Q02,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-003-Q03,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-003-Q04,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-003-Q05,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-003-Q06,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-004-Q01,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-004-Q02,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-004-Q03,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-004-Q04,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-004-Q05,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-004-Q06,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-005-Q01,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-BAND-KP-005-Q02,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-BAND-KP-005-Q03,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-BAND-KP-005-Q04,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-BAND-KP-005-Q05,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-BAND-KP-005-Q06,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-001-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-001-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-001-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-001-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-001-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-001-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-002-Q01,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-002-Q02,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-002-Q03,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-002-Q04,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-002-Q05,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-002-Q06,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-003-Q01,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-003-Q02,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-003-Q03,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-003-Q04,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-003-Q05,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-003-Q06,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-004-Q01,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-004-Q02,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-004-Q03,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-004-Q04,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-004-Q05,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-004-Q06,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-CARRIER-KP-005-Q01,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-CARRIER-KP-005-Q02,ref-b4df4f2c2281,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-CARRIER-KP-005-Q03,ref-b4df4f2c2281,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-CARRIER-KP-005-Q04,ref-b4df4f2c2281,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-CARRIER-KP-005-Q05,ref-b4df4f2c2281,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-CARRIER-KP-005-Q06,ref-b4df4f2c2281,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-001-Q01,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-001-Q02,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-001-Q03,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-001-Q04,ref-eaf308f362c8,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-001-Q05,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-001-Q06,ref-eaf308f362c8,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-002-Q01,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-ELECTRO-KP-002-Q02,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-ELECTRO-KP-002-Q03,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-ELECTRO-KP-002-Q04,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-ELECTRO-KP-002-Q05,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-002-Q06,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-003-Q01,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-ELECTRO-KP-003-Q02,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-ELECTRO-KP-003-Q03,ref-b4df4f2c2281,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-003-Q04,ref-b4df4f2c2281,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-003-Q05,ref-b4df4f2c2281,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-003-Q06,ref-b4df4f2c2281,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-004-Q01,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-ELECTRO-KP-004-Q02,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-004-Q03,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-ELECTRO-KP-004-Q04,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-ELECTRO-KP-004-Q05,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-ELECTRO-KP-004-Q06,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-005-Q01,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-ELECTRO-KP-005-Q02,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-005-Q03,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-ELECTRO-KP-005-Q04,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-ELECTRO-KP-005-Q05,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-ELECTRO-KP-005-Q06,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-TRANSPORT-KP-001-Q01,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-001-Q02,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-001-Q03,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-001-Q04,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-001-Q05,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-001-Q06,ref-0d59a32977da,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-002-Q01,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-002-Q02,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-002-Q03,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-002-Q04,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-002-Q05,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-002-Q06,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-003-Q01,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-TRANSPORT-KP-003-Q02,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-TRANSPORT-KP-003-Q03,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-TRANSPORT-KP-003-Q04,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-003-Q05,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-003-Q06,ref-2aeb8ae5efa2,SRC-025,SRC-025,NO_LEGACY_ID_DIFFERENCE_DETECTED,Pierret — Semiconductor Device Fundamentals,Pierret — Semiconductor Device Fundamentals
+WP2,WP2-SEM-TRANSPORT-KP-004-Q01,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-TRANSPORT-KP-004-Q02,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-TRANSPORT-KP-004-Q03,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-TRANSPORT-KP-004-Q04,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-TRANSPORT-KP-004-Q05,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-TRANSPORT-KP-004-Q06,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-TRANSPORT-KP-005-Q01,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-TRANSPORT-KP-005-Q02,ref-b4df4f2c2281,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-TRANSPORT-KP-005-Q03,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-TRANSPORT-KP-005-Q04,ref-b4df4f2c2281,SRC-049,SRC-049,NO_LEGACY_ID_DIFFERENCE_DETECTED,Taur & Ning — Fundamentals of Modern VLSI Devices,Not matched by limited textbook-title diagnostic
+WP2,WP2-SEM-TRANSPORT-KP-005-Q05,ref-b4df4f2c2281,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SEM-TRANSPORT-KP-005-Q06,ref-b4df4f2c2281,SRC-049,SRC-018,DIFFERENT_LOCAL_IDS_SAME_NAMED_WORK,Taur & Ning — Fundamentals of Modern VLSI Devices,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SIM-COMPACT-KP-001-Q01,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-001-Q02,ref-cb99d69a2034,SRC-001;SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-001-Q03,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-002-Q01,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-002-Q02,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-002-Q03,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-003-Q01,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-003-Q02,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-003-Q03,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-004-Q01,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-004-Q02,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-004-Q03,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-005-Q01,ref-cb99d69a2034,SRC-001;SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-005-Q02,ref-cb99d69a2034,SRC-001;SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-005-Q03,ref-cb99d69a2034,SRC-001;SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-006-Q01,ref-cb99d69a2034,SRC-001;SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-006-Q02,ref-cb99d69a2034,SRC-001;SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-006-Q03,ref-cb99d69a2034,SRC-001;SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-007-Q01,ref-cb99d69a2034,SRC-001;SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-007-Q02,ref-cb99d69a2034,SRC-001;SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-007-Q03,ref-67d77033109d,SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-008-Q01,ref-67d77033109d,SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-008-Q02,ref-67d77033109d,SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-008-Q03,ref-67d77033109d,SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-009-Q01,ref-67d77033109d,SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-009-Q02,ref-67d77033109d,SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-009-Q03,ref-67d77033109d,SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-010-Q01,ref-67d77033109d,SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-010-Q02,ref-67d77033109d,SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-010-Q03,ref-67d77033109d,SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-011-Q01,ref-67d77033109d,SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-011-Q02,ref-67d77033109d,SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-011-Q03,ref-67d77033109d,SRC-060,SRC-060,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-012-Q01,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-012-Q02,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-COMPACT-KP-012-Q03,ref-183268fe12f1,SRC-002;SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-001-Q01,ref-dfe405559960,SRC-004;SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-001-Q02,ref-dfe405559960,SRC-004;SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-001-Q03,ref-dfe405559960,SRC-004;SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-002-Q01,ref-dfe405559960,SRC-004;SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-002-Q02,ref-dfe405559960,SRC-004;SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-002-Q03,ref-dfe405559960,SRC-004;SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-003-Q01,ref-dfe405559960,SRC-004;SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-003-Q02,ref-dfe405559960,SRC-004;SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-003-Q03,ref-dfe405559960,SRC-004;SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-004-Q01,ref-dfe405559960,SRC-004;SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-004-Q02,ref-d61b82f948af,SRC-010,SRC-010,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Taur & Ning — Fundamentals of Modern VLSI Devices
+WP2,WP2-SIM-NUMERICAL-KP-004-Q03,ref-88695470684d,SRC-003;SRC-004;SRC-010;SRC-020,SRC-010;SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-005-Q01,ref-d5dd72d9e789,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-005-Q02,ref-d5dd72d9e789,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-005-Q03,ref-d5dd72d9e789,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-006-Q01,ref-d5dd72d9e789,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-006-Q02,ref-d5dd72d9e789,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-006-Q03,ref-d5dd72d9e789,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-007-Q01,ref-d5dd72d9e789,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-007-Q02,ref-d5dd72d9e789,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-007-Q03,ref-d5dd72d9e789,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-008-Q01,ref-d5dd72d9e789,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-008-Q02,ref-d5dd72d9e789,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-008-Q03,ref-d5dd72d9e789,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-009-Q01,ref-d61b82f948af,SRC-010,SRC-010,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-009-Q02,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-009-Q03,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-010-Q01,ref-da358f6409d4,SRC-008;SRC-019,SRC-019,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-010-Q02,ref-d8f1201ec19e,SRC-007;SRC-041,SRC-041,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-010-Q03,ref-d8f1201ec19e,SRC-007;SRC-041,SRC-041,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-011-Q01,ref-d61b82f948af,SRC-010,SRC-010,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-011-Q02,ref-d61b82f948af,SRC-010,SRC-010,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-011-Q03,ref-d61b82f948af,SRC-010,SRC-010,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-012-Q01,ref-d8f1201ec19e,SRC-007;SRC-041,SRC-041,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-012-Q02,ref-d8f1201ec19e,SRC-007;SRC-041,SRC-041,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-NUMERICAL-KP-012-Q03,ref-d8f1201ec19e,SRC-007;SRC-041,SRC-041,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-001-Q01,ref-d61b82f948af,SRC-010,SRC-010,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-001-Q02,ref-d61b82f948af,SRC-010,SRC-010,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-001-Q03,ref-d61b82f948af,SRC-010,SRC-010,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-002-Q01,ref-d1057bd297ba,SRC-006;SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-002-Q02,ref-d1057bd297ba,SRC-006;SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-002-Q03,ref-d1057bd297ba,SRC-006;SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-003-Q01,ref-d1057bd297ba,SRC-006;SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-003-Q02,ref-d5dd72d9e789,SRC-020,SRC-020,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-003-Q03,ref-d1057bd297ba,SRC-006;SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-004-Q01,ref-d1057bd297ba,SRC-006;SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-004-Q02,ref-d1057bd297ba,SRC-006;SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-004-Q03,ref-d1057bd297ba,SRC-006;SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-005-Q01,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-005-Q02,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-005-Q03,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-006-Q01,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-006-Q02,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-006-Q03,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-007-Q01,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-007-Q02,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-007-Q03,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-008-Q01,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-008-Q02,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-008-Q03,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-009-Q01,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-009-Q02,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-009-Q03,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-010-Q01,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-010-Q02,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-010-Q03,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-011-Q01,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-011-Q02,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-011-Q03,ref-0577c34a5384,SRC-015,SRC-015,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-012-Q01,ref-1c6272ac66b5,SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-012-Q02,ref-1c6272ac66b5,SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic
+WP2,WP2-SIM-TCAD-KP-012-Q03,ref-1c6272ac66b5,SRC-007,SRC-007,NO_LEGACY_ID_DIFFERENCE_DETECTED,Not matched by limited textbook-title diagnostic,Not matched by limited textbook-title diagnostic

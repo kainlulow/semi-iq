@@ -1,0 +1,32 @@
+{
+  "dataset_version": "V1.0.0",
+  "wp1_records": 225,
+  "wp2_items": 769,
+  "scoring_criteria": 1247,
+  "wp1_approved": 225,
+  "wp2_approved": 769,
+  "wp2_by_module": {
+    "DEV": 180,
+    "ENG": 117,
+    "MAT": 102,
+    "PRO": 142,
+    "SEM": 120,
+    "SIM": 108
+  },
+  "wp2_by_difficulty": {
+    "Advanced": 168,
+    "Basic": 232,
+    "Intermediate": 369
+  },
+  "wp2_by_scoring_profile": {
+    "conceptual_rubric": 570,
+    "exact_answer": 146,
+    "numeric_with_tolerance": 53
+  },
+  "validation_boundary": "Public packaging checks verify schema, WP1 linkage, scoring totals, selected task/criteria cases, source-format hygiene, resolved reference/locator named-work consistency, XLSX correspondence, unique citation-string keys, traceability diagnostics, and checksums. They do not validate all semantic question/rubric/criterion alignment. Downstream WP3 runtime validation, documentary rights clearance and remote GitHub CI are not covered.",
+  "licensing": {
+    "dataset_and_documentation": "CC-BY-NC-4.0",
+    "software": "PolyForm-Noncommercial-1.0.0",
+    "additional_commercial_use": "separate authorization where required"
+  }
+}

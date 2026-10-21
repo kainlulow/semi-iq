@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite this dataset version and acknowledge its contributors."
+title: "SemiIQ"
+type: dataset
+version: "1.0.0"
+repository-code: "https://github.com/kainlulow/semi-iq"
+url: "https://github.com/kainlulow/semi-iq"
+authors:
+  - family-names: "Low"
+    given-names: "Kain Lu"
+    website: "https://github.com/kainlulow"
+  - family-names: "Wu"
+    given-names: "Yueqi"
+    website: "https://github.com/YueqiWu-AFT"
+  - family-names: "Xue"
+    given-names: "Weichen"
+    website: "https://github.com/weichenxue1615-lgtm"
+  - family-names: "Ma"
+    given-names: "Enhao"
+    website: "https://github.com/yuryellen"
+keywords:
+  - semiconductor
+  - benchmark
+  - large language models
+  - domain knowledge
+  - evaluation
+abstract: "A source-traceable semiconductor knowledge and assessment benchmark with 225 human-approved WP1 records, 769 approved WP2 questions, and 1,247 scoring criteria."

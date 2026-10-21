@@ -1,0 +1,16 @@
+name: Validate benchmark release
+on:
+  push:
+  pull_request:
+  release:
+    types: [published]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate publication-ready package
+        run: python scripts/validate_release.py --require-publication-ready
