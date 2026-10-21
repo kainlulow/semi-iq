@@ -12,6 +12,7 @@ from pathlib import Path
 
 root=Path(__file__).resolve().parents[1]
 def read(f):return json.loads((root/f).read_text(encoding='utf-8'))
+def packaged(path):return '.git' not in path.relative_to(root).parts
 w1=read('data/v1.0/wp1_knowledge.json');w2=read('data/v1.0/wp2_benchmark.json')
 manifest=read('metadata/release_manifest.json');summary=read('metadata/content_summary.json')
 records=w1['records'];entries=w2['items']
@@ -242,12 +243,12 @@ for private_name in ['historical_warning_flags.csv','quality_summary.json','rele
  assert not any(p.name==private_name for p in root.rglob('*'))
 private=re.compile(r'https?://(?:drive|docs)\.google\.com/|drive\s+(?:archive\s+)?file\s+id\s*:|internal file\s*:|archive sha256\s*:|/home/[^/\s]+',re.I)
 for path in root.rglob('*'):
- if path.is_file() and path.suffix.lower() in {'.json','.csv','.md','.py','.yml','.yaml','.cff',''}:
+ if packaged(path) and path.is_file() and path.suffix.lower() in {'.json','.csv','.md','.py','.yml','.yaml','.cff',''}:
   if path==Path(__file__).resolve():continue
   text=path.read_text(encoding='utf-8-sig')
   assert not private.search(text),path
 sha=root/'metadata/SHA256SUMS';lines=sha.read_text().splitlines()
-actual={str(p.relative_to(root)) for p in root.rglob('*') if p.is_file() and p!=sha}
+actual={str(p.relative_to(root)) for p in root.rglob('*') if packaged(p) and p.is_file() and p!=sha}
 covered=set()
 for line in lines:
  digest,rel=line.split('  ',1)
